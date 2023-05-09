@@ -1,5 +1,2 @@
 ONLINE APPOINTMENT MANAGEMENT SYSTEM
-Online Appointment Management System helps patients to book appointments .
-Doctor from different regions can register and be part of the system, where patients get themselves appoint by the specialized doctors.
-Online Appointment Management System helps patients to book appointments .
-Doctor from different regions can register and be part of the system, where patients get themselves appoint by the specialized doctors.
+The Online Appointment Management system is a computerized management system. The system keeps the records of the appointments which are being registered by the patients and verified by the administrator. This project has GUI based software that will help in storing, updating and retrieving the information through various user-friendly menu-driven modules. Used Javascript, HTML and CSS for the frontend design and MyPHP Admin for the backend database storage(SQL).
